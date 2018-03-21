@@ -1,6 +1,46 @@
 ,ID,English,Italian,Article,Regular,Type,LastCorrect
-2,3,Lawyer,Avvocato,l',n/a,n,1521142015.460977
-0,1,Clothes,Abiti,gli,n/a,n,1521142019.034615
-1,2,to Accept,Accettare,n/a,r,v,1521142023.84033
+0,3,Lawyer,Avvocato,l',n/a,n,1521142015.4609768
+1,1,Clothes,Abiti,gli,n/a,n,1521142019.034615
+2,2,to Accept,Accettare,n/a,r,v,1521142023.8403301
 3,4,to Drink,Bere,n/a,i,v,1521142026.842324
 4,5,to Listen,Ascoltare,n/a,r,v,1521142031.717097
+5,6,to Add,aggiungere,n/a,i,v,0.0
+6,7,to Lift,Alzare,n/a,r,v,0.0
+7,8,Rainbow,arcobaleno,il,n/a,n,0.0
+8,9,actress,attrice,la,n/a,n,0.0
+9,10,actor,attore,il,n/a,n,0.0
+10,11,vacuum cleaner,aspirapolvere,gli,n/a,n,0.0
+11,12,barely,appena,gli,n/a,o,0.0
+12,13,business,azienda,le,n/a,n,0.0
+13,14,bag,borsa,la,n/a,n,0.0
+14,15,skin,buccia,la,n/a,n,0.0
+15,16,a lie,bugia,la,n/a,n,0.0
+16,17,a drink,bevanda,la,n/a,n,0.0
+17,18,hair,cappelli,i,n/a,n,0.0
+18,19,erase,cancellare,n/a,r,v,0.0
+19,20,single (ms),celibe,n/a,r,o,0.0
+20,21,who,chi,n/a,r,o,0.0
+21,22,to ask,chiedere,n/a,r,v,0.0
+22,23,to close,chiudere,n/a,r,v,0.0
+23,24,food,cibo,il,n/a,n,0.0
+24,25,shop assistant,commesso,il,n/a,n,0.0
+25,26,consultancy,consulenza,la,n/a,n,0.0
+26,27,to run,correre,n/a,r,v,0.0
+27,28,the shower,doccia,la,n/a,n,0.0
+28,29,data,dati,i,n/a,n,0.0
+29,30,describe,descrivere,n/a,r,v,0.0
+30,31,hard working,diligente,n/a,r,o,0.0
+31,32,confident,estroverso,n/a,r,o,0.0
+32,33,factory,fabbrica,la,n/a,n,0.0
+33,34,to stay,rimanere,n/a,i,v,0.0
+34,35,meanwhile,fratempo,n/a,i,o,0.0
+35,36,to learn,imparare,n/a,r,v,0.0
+36,37,employee,impiegato,il,n/a,n,0.0
+37,38,nurse,infermiera,la,n/a,n,0.0
+38,39,to meet,incontrare,n/a,r,v,0.0
+39,40,winter,inverno,il,n/a,n,0.0
+40,41,instead,invece,il,n/a,o,0.0
+41,42,teacher,insegnante,l',n/a,n,0.0
+42,43,to read,leggere,n/a,r,v,0.0
+43,44,book,libro,il,n/a,n,0.0
+44,45,free,libero,il,n/a,o,0.0
