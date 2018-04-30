@@ -54,6 +54,10 @@ if mode == 'a':
                     break
                 else: print(invalid)
 
+        elif Type =='o':
+            Article = 'n/a'
+            Regular = 'n/a'
+
         line.append(ID)
         line.append(English)
         line.append(Target)
@@ -183,6 +187,7 @@ elif mode == 't':
                     if article == sortedvocab.iloc[i,3]:
                         print('Also Correct!')
                         nocor = nocor + 1
+                        print(nocor)
                         sortedvocab.iloc[i,-1] = datetime.datetime.now().timestamp()
 
                 elif sortedvocab.iloc[i,-2] == 'v':
@@ -190,7 +195,7 @@ elif mode == 't':
                     if regular == sortedvocab.iloc[i,-3]:
                         print('Also Correct!')
                         nocor = nocor + 1
-
+                        print(nocor)
                         sortedvocab.iloc[i,-1] = datetime.datetime.now().timestamp()
 
                 if sortedvocab.iloc[i,-2] == 'o':
@@ -199,7 +204,8 @@ elif mode == 't':
 
 
             else:
-                print('Sorry Pal')
+                print('Sorry Pal, you need to revise')
+
 
         if a == 0:
             print(sortedvocab.iloc[i,2])
@@ -207,7 +213,10 @@ elif mode == 't':
             if test == sortedvocab.iloc[i,1]:
                 print('CORRECT!!!')
                 nocor = nocor + 1
+                print(nocor)
                 sortedvocab.iloc[i,-1] = datetime.datetime.now().timestamp()
+            else:
+                print('Sorry Pal')
     print("You scored " + str(float(nocor/5)*100) + '%')
 
     sortedvocab.to_csv('itvocab.csv')
