@@ -1,8 +1,6 @@
 #TO DO
-
-#,ID,English,Italian,Gender,Regular,Type,LastCorrect
-#make modes into classes
-# class adder()
+#make it so you have to have done it english to italian and italian to english for the score to be boosted
+#make it a score rather than a last correct
 
 import pandas as pd
 import numpy as np

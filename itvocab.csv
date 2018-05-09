@@ -1,89 +1,101 @@
 ,ID,English,Italian,Article,Regular,Type,LastCorrect
-65,38,nurse,infermiera,la,n/a,n,1523190298.900933
-69,68,boisterous,rumoroso,n/a,n/a,o,1524400781.81191
-70,76,spoon,cucchiaio,il,n/a,n,1525126639.472262
-71,64,excuse,pretesto,il,n/a,n,1525126643.932143
-72,67,to fill,riempire,n/a,i,v,1524400831.607086
-73,65,to clean,pulire,n/a,i,v,1524400971.187985
-74,58,boring,noioso,n/a,n/a,o,1524400975.026731
-75,60,every,ogni,n/a,n/a,o,1524400977.963085
-76,81,pear,pera,la,n/a,n,1524400982.35558
-77,62,early,presto,n/a,n/a,o,1524400984.488589
-78,80,every,ogni,n/a,n/a,o,1524401045.245697
-79,79,thirst,sete,la,n/a,n,1524401056.401166
-80,39,to meet,incontrare,n/a,r,v,1524401065.847769
-81,75,far,lontano,n/a,n/a,o,1524401070.656673
-0,70,broken,rotto,n/a,n/a,o,1524401100.972176
-2,54,to stop,fermare,n/a,r,v,1524401109.075131
-4,43,to read,leggere,n/a,r,v,1524401119.979672
-87,88,wood,legno,il,n/a,n,1524909650.730047
-86,87,to cut,tagliare,n/a,r,v,1524909652.8558311
-83,84,to throw,buttare,n/a,r,v,1524909657.079926
-21,69,line,riga,la,n/a,n,1524909658.7107902
-20,34,to stay,rimanere,n/a,i,v,1524909662.045186
-1,42,teacher,insegnante,l',n/a,n,1524909688.3411288
-85,86,piece,pezzetto,il,n/a,n,1524910160.766237
+89,90,ingredient,ingrediente,gli,n/a,n,0.0
+92,93,place,luogo,il,n/a,n,0.0
+94,95,usually,di solito,n/a,n/a,o,1525866121.058962
+95,96,never,mai,n/a,n/a,o,1525866123.60593
+98,99,to choose,scegliere,n/a,i,v,0.0
+88,89,opinion,opinione,la,n/a,n,0.0
+96,97,to move,spostare,n/a,r,v,0.0
+97,98,to express,esprimere,n/a,r,v,0.0
+2,86,piece,pezzetto,il,n/a,n,1524910160.766237
 3,49,out,fuori,n/a,n/a,o,1524910163.772906
-6,41,instead,invece,il,n/a,o,1524910171.495076
-19,59,grandson,nipote,il,n/a,n,1524910178.0644
-17,57,profession,mestiere,il,n/a,n,1524910190.620956
-16,56,to send,mandare,n/a,r,v,1524910235.570051
-14,73,awkward,scomodo,n/a,n/a,o,1524910242.910375
-18,77,tasty,saporito,n/a,n/a,o,1524910274.381734
+5,59,grandson,nipote,il,n/a,n,1524910178.0644
+6,57,profession,mestiere,il,n/a,n,1524910190.620956
+7,56,to send,mandare,n/a,r,v,1524910235.570051
+8,73,awkward,scomodo,n/a,n/a,o,1524910242.910375
+9,77,tasty,saporito,n/a,n/a,o,1524910274.381734
 10,61,circle,cerchio,il,n/a,n,1524910279.326913
-5,40,winter,inverno,il,n/a,n,1524910291.560273
-7,53,side dish,contorno,il,n/a,n,1524910295.624259
-84,85,to remove,togliere,n/a,r,v,1524910374.043483
-8,50,farm,agriturismo,l',n/a,n,1524910375.802692
-13,63,afternoon,pomereggio,il,n/a,n,1524910387.129023
-9,55,washing machine,lavatrice,la,n/a,n,1524910394.2684839
-15,17,drink,bevanda,la,n/a,n,1524910405.513344
-82,83,to chop,tritare,n/a,r,v,1524910412.449099
-22,3,lawyer,avvocato,l',n/a,n,1524910415.951925
-11,51,pub,osteria,le,n/a,n,1524910420.689791
-23,1,clothes,abiti,gli,n/a,n,1524910432.676285
-24,2,to accept,accettare,n/a,r,v,1524910436.1747
-25,4,to drink,bere,n/a,i,v,1524910440.15914
-12,78,bubbles,bollicine,le,n/a,n,1524910448.217335
-26,5,to listen,ascoltare,n/a,r,v,1524910450.550941
-28,25,shop assistant,commesso,il,n/a,n,1524910480.5530539
+11,40,winter,inverno,il,n/a,n,1524910291.560273
+12,53,side dish,contorno,il,n/a,n,1524910295.624259
+13,85,to remove,togliere,n/a,r,v,1524910374.043483
+14,50,farm,agriturismo,l',n/a,n,1524910375.802692
+15,63,afternoon,pomereggio,il,n/a,n,1524910387.129023
+16,55,washing machine,lavatrice,la,n/a,n,1524910394.2684839
+17,17,drink,bevanda,la,n/a,n,1524910405.513344
+18,83,to chop,tritare,n/a,r,v,1524910412.449099
+19,3,lawyer,avvocato,l',n/a,n,1524910415.951925
+20,51,pub,osteria,le,n/a,n,1524910420.689791
+21,1,clothes,abiti,gli,n/a,n,1524910432.676285
+22,2,to accept,accettare,n/a,r,v,1524910436.1747
+23,4,to drink,bere,n/a,i,v,1524910440.15914
+24,78,bubbles,bollicine,le,n/a,n,1524910448.217335
+25,5,to listen,ascoltare,n/a,r,v,1524910450.550941
+26,25,shop assistant,commesso,il,n/a,n,1524910480.5530539
 27,23,to close,chiudere,n/a,r,v,1524910491.251736
-30,48,heavy,pesante,n/a,n/a,o,1524910499.375643
-32,9,actress,attrice,la,n/a,n,1524910513.587466
-29,26,consultancy,consulenza,la,n/a,n,1524910522.3550339
+28,48,heavy,pesante,n/a,n/a,o,1524910499.375643
+29,9,actress,attrice,la,n/a,n,1524910513.587466
+30,26,consultancy,consulenza,la,n/a,n,1524910522.3550339
 31,8,rainbow,arcobaleno,il,n/a,n,1524910526.28949
-33,27,to run,correre,n/a,r,v,1524910529.518894
-34,29,data,dati,i,n/a,n,1524910531.528948
-35,44,book,libro,il,n/a,n,1524910536.164095
-36,15,skin,buccia,la,n/a,n,1525005317.754833
-37,7,to lift,alzare,n/a,r,v,1525005323.605368
-38,10,actor,attore,il,n/a,n,1525005328.737473
-39,35,meanwhile,fratempo,n/a,i,o,1525005333.956006
-40,30,describe,descrivere,n/a,r,v,1525005339.372339
-41,24,food,cibo,il,n/a,n,1525030216.111119
-42,32,confident,estroverso,n/a,r,o,1525030219.476703
-45,19,erase,cancellare,n/a,r,v,1525030234.092575
+32,27,to run,correre,n/a,r,v,1524910529.518894
+33,29,data,dati,i,n/a,n,1524910531.528948
+34,44,book,libro,il,n/a,n,1524910536.164095
+35,15,skin,buccia,la,n/a,n,1525005317.754833
+36,7,to lift,alzare,n/a,r,v,1525005323.605368
+37,10,actor,attore,il,n/a,n,1525005328.737473
+38,35,meanwhile,fratempo,n/a,i,o,1525005333.956006
+39,30,describe,descrivere,n/a,r,v,1525005339.372339
+40,24,food,cibo,il,n/a,n,1525030216.111119
+41,32,confident,estroverso,n/a,r,o,1525030219.476703
+42,19,erase,cancellare,n/a,r,v,1525030234.092575
 43,6,to add,aggiungere,n/a,i,v,1525030306.1627119
 44,18,hair,cappelli,i,n/a,n,1525030307.9450688
-47,47,clock,orologio,il,n/a,n,1525030323.894737
-48,33,factory,fabbrica,la,n/a,n,1525030327.914813
-46,20,single (ms),celibe,n/a,r,o,1525030336.477251
-49,31,hard working,diligente,n/a,r,o,1525030342.4996462
-50,36,to learn,imparare,n/a,r,v,1525030347.451984
-52,21,who,chi,n/a,r,o,1525030360.638546
+45,47,clock,orologio,il,n/a,n,1525030323.894737
+46,33,factory,fabbrica,la,n/a,n,1525030327.914813
+47,20,single (ms),celibe,n/a,r,o,1525030336.477251
+48,31,hard working,diligente,n/a,r,o,1525030342.4996462
+49,36,to learn,imparare,n/a,r,v,1525030347.451984
+50,21,who,chi,n/a,r,o,1525030360.638546
 51,37,employee,impiegato,il,n/a,n,1525030371.386501
-53,13,business,azienda,le,n/a,n,1525030373.967674
-54,45,free,libero,il,n/a,o,1525030376.985064
-56,46,to travel,viaggiare,n/a,r,v,1525030389.115324
+52,13,business,azienda,le,n/a,n,1525030373.967674
+53,45,free,libero,il,n/a,o,1525030376.985064
+54,46,to travel,viaggiare,n/a,r,v,1525030389.115324
 55,28,the shower,doccia,la,n/a,n,1525030398.6840641
-57,22,to ask,chiedere,n/a,r,v,1525030416.916602
-59,14,bag,borsa,la,n/a,n,1525030535.5684981
-60,11,vacuum cleaner,aspirapolvere,gli,n/a,n,1525030539.712732
-61,12,barely,appena,gli,n/a,o,1525030541.759652
-62,66,district,quartiere,il,n/a,n,1525030549.487241
-63,74,joke,scherzetto,lo,n/a,n,1525030558.896347
-64,16,lie,bugia,la,n/a,n,1525030560.548336
-66,72,to play (instrument),suonare,n/a,r,v,1525030574.247536
-58,52,to combine,abbinare,n/a,r,v,1525030589.216112
-67,71,layer,strato,lo,n/a,n,1525030598.1977632
-68,82,chicken,polio,il,n/a,n,1525030604.0361571
+56,22,to ask,chiedere,n/a,r,v,1525030416.916602
+57,14,bag,borsa,la,n/a,n,1525030535.5684981
+58,11,vacuum cleaner,aspirapolvere,gli,n/a,n,1525030539.712732
+59,12,barely,appena,gli,n/a,o,1525030541.759652
+60,66,district,quartiere,il,n/a,n,1525030549.487241
+61,74,joke,scherzetto,lo,n/a,n,1525030558.896347
+62,16,lie,bugia,la,n/a,n,1525030560.548336
+63,72,to play (instrument),suonare,n/a,r,v,1525030574.247536
+64,52,to combine,abbinare,n/a,r,v,1525030589.216112
+65,71,layer,strato,lo,n/a,n,1525030598.1977632
+66,82,chicken,polio,il,n/a,n,1525030604.0361571
+67,76,spoon,cucchiaio,il,n/a,n,1525126639.472262
+68,64,excuse,pretesto,il,n/a,n,1525126643.932143
+69,38,nurse,infermiera,la,n/a,n,1525126978.75864
+70,68,boisterous,rumoroso,n/a,n/a,o,1525126983.574328
+71,67,to fill,riempire,n/a,i,v,1525126988.369715
+72,65,to clean,pulire,n/a,i,v,1525126993.998395
+73,58,boring,noioso,n/a,n/a,o,1525126996.389927
+74,60,every,ogni,n/a,n/a,o,1525205240.509837
+75,81,pear,pera,la,n/a,n,1525205246.797185
+76,62,early,presto,n/a,n/a,o,1525205250.4351141
+77,80,every,ogni,n/a,n/a,o,1525205253.367016
+78,79,thirst,sete,la,n/a,n,1525205265.575083
+79,39,to meet,incontrare,n/a,r,v,1525205268.227092
+80,75,far,lontano,n/a,n/a,o,1525205270.067764
+81,70,broken,rotto,n/a,n/a,o,1525205272.4149814
+82,54,to stop,fermare,n/a,r,v,1525205276.325906
+83,87,to cut,tagliare,n/a,r,v,1525807968.382033
+84,69,line,riga,la,n/a,n,1525807979.527424
+85,43,to read,leggere,n/a,r,v,1525807986.3383946
+86,84,to throw,buttare,n/a,r,v,1525807999.323999
+87,34,to stay,rimanere,n/a,i,v,1525808002.505089
+0,88,wood,legno,il,n/a,n,1525808113.964217
+1,42,teacher,insegnante,l',n/a,n,1525808120.395024
+4,41,instead,invece,il,n/a,o,1525864761.10888
+99,100,optional,facoltativa,n/a,n/a,o,1525866056.755109
+90,91,complicated,complicato,n/a,n/a,o,1525866060.488195
+91,92,flavour,sapore,il,n/a,n,1525866069.0845811
+93,94,sometimes,qualche volte,n/a,n/a,o,1525866104.904393
