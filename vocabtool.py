@@ -1,6 +1,75 @@
 #TO DO
-#make it so you have to have done it english to italian and italian to english for the score to be boosted
-#make it a score rather than a last correct
+#CONVERT TO JSON WITH TIMESTAMPED PROGRESS
+#HAVE CONJUGATION SUPPORT
+
+#HOW I WANT IT TO LOOK
+#
+# [
+#     {
+#         "English": "to remove",
+#         "Italian": "togliere",
+#         "Article": "n/a",
+#         "Regular": "r",
+#         "Type": "v",
+#         "Progress":{
+#           "toItalian":{
+#             "1524910374.043483":-0.5,
+#             "1512910374.043483":1
+#           },
+#           "toEnglish":{
+#             "1544910374.043483":-0.5,
+#             "1612910374.043483":1
+#           }
+#         }
+#     }
+# ]
+#getting it wrong results in -0.5
+#getting it right results in +1
+
+# TURN THIS BIT INTO A DICTIONARY
+# line = {}
+# English = input("What is the English word?")
+# Target = input("What is the " + targetlang + ' word?')
+# while True:
+#     Type = input('Is the word a noun or a verb? (Can be \n n: noun \n v: verb \n o: other)')
+#     if Type == 'n' or \
+#        Type == 'v' or \
+#        Type == 'o':
+#        break
+#     else: print(invalid)
+# if Type == 'n':
+#     Regular = 'n/a'
+#     while True:
+#         Article = input("What is the article? (Determinative, Can be " + str(articles))
+#         if Article in articles:
+#             break
+#         else: print(invalid)
+#
+# elif Type =='v':
+#     Article = 'n/a'
+#     while True:
+#         Regular = input("Is the verb regular? (Can be r, i or na)")
+#         if Regular == 'r' or \
+#            Regular == 'i' or \
+#            Regular == 'n/a':
+#             break
+#         else: print(invalid)
+#
+# elif Type =='o':
+#     Article = 'n/a'
+#     Regular = 'n/a'
+#
+# line.append(ID)
+# line.append(English)
+# line.append(Target)
+# line.append(Article)
+# line.append(Regular)
+# line.append(Type)
+# line.append(0)
+# line = pd.DataFrame([line], columns=vocab.columns)
+# vocab = vocab.append(line, ignore_index=True)
+# print('Added ')
+# print(line)
 
 import pandas as pd
 import numpy as np
