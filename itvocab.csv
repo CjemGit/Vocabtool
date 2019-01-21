@@ -1,34 +1,7 @@
 ,ID,English,Italian,Article,Regular,Type,LastCorrect
-14,84,to throw,buttare,,r,v,1529352080.530996
-15,79,thirst,sete,la,,n,1548022428.952048
-16,87,to cut,tagliare,,r,v,1529840587.550811
-17,43,to read,leggere,,r,v,1548022434.67077
-18,34,to stay,rimanere,,i,v,1529840594.8230221
-19,88,wood,legno,il,,n,1529840767.998868
-20,42,teacher,insegnante,l',,n,1529840770.236182
-21,41,instead,invece,il,,o,1529840772.4878054
-22,100,optional,facoltativa,,,o,1529840776.142173
-23,91,complicated,complicato,,,o,1529840778.984563
-24,95,usually,di solito,,,o,1529955481.994798
-25,93,place,luogo,il,,n,1529955490.540314
-26,94,sometimes,qualche volte,,,o,1530042980.023012
-27,96,never,mai,,,o,1530042982.1248848
-28,99,to choose,scegliere,,i,v,1530042986.88241
-29,97,to move,spostare,,r,v,1530042991.944833
-30,90,ingredient,ingrediente,gli,,n,1533754983.493614
-31,98,to express,esprimere,,r,v,1533754995.168581
-32,92,flavour,sapore,il,,n,1533755032.259402
-33,101,dry,secco,,,o,1533755033.913881
-34,102,wet,bagnato,,,o,1533755035.756335
-35,109,dry,secco,,,o,1540673122.304859
-36,106,to reach,raggiungere,,i,v,1540852638.582934
-37,107,boar,cinghiale,il,,n,1540852641.085418
-38,108,precious,pregiato,,,o,1540852644.561191
-39,114,to walk,camminare,,r,v,1540852656.123213
-40,111,some,alcuni,,,o,1540852711.3153381
-41,110,farmer,contadino,il,,n,1540852715.941483
-42,113,then,quindi,,,o,1540852718.401317
-43,89,opinion,opinione,la,,n,1540852742.9497461
+37,107,boar,cinghiale,il,,n,1548110504.429625
+40,111,some,alcuni,,,o,1548110509.927912
+43,89,opinion,opinione,la,,n,1548110512.372538
 44,112,thin,sottile,,,o,1541151568.596483
 45,116,stew,stufato,lo,,n,1541151582.1697054
 46,118,soup,minestra,la,,n,1541151591.267168
@@ -141,3 +114,30 @@
 11,70,broken,rotto,,,o,1548022368.010315
 12,54,to stop,fermare,,r,v,1548022371.36135
 13,69,line,riga,la,,n,1548022374.8400779
+15,79,thirst,sete,la,,n,1548022428.952048
+17,43,to read,leggere,,r,v,1548022434.67077
+14,84,to throw,buttare,,r,v,1548110309.131141
+16,87,to cut,tagliare,,r,v,1548110312.347322
+19,88,wood,legno,il,,n,1548110319.028837
+18,34,to stay,rimanere,,i,v,1548110333.597326
+21,41,instead,invece,il,,o,1548110348.909919
+22,100,optional,facoltativa,,,o,1548110353.118817
+23,91,complicated,complicato,,,o,1548110355.554971
+20,42,teacher,insegnante,l',,n,1548110360.904555
+24,95,usually,di solito,,,o,1548110366.218784
+25,93,place,luogo,il,,n,1548110368.352206
+26,94,sometimes,qualche volte,,,o,1548110377.285485
+27,96,never,mai,,,o,1548110379.4990802
+28,99,to choose,scegliere,,i,v,1548110387.487216
+29,97,to move,spostare,,r,v,1548110389.6052382
+30,90,ingredient,ingrediente,gli,,n,1548110395.7080278
+31,98,to express,esprimere,,r,v,1548110402.152191
+33,101,dry,secco,,,o,1548110414.072156
+34,102,wet,bagnato,,,o,1548110417.048235
+35,109,dry,secco,,,o,1548110419.597853
+36,106,to reach,raggiungere,,i,v,1548110457.365979
+32,92,flavour,sapore,il,,n,1548110465.002839
+38,108,precious,pregiato,,,o,1548110474.115625
+39,114,to walk,camminare,,r,v,1548110478.663977
+41,110,farmer,contadino,il,,n,1548110493.2035902
+42,113,then,quindi,,,o,1548110496.017817
