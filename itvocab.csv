@@ -1,143 +1,174 @@
 ,ID,English,Italian,Article,Regular,Type,LastCorrect
-37,107,boar,cinghiale,il,,n,1548110504.429625
-40,111,some,alcuni,,,o,1548110509.927912
-43,89,opinion,opinione,la,,n,1548110512.372538
-44,112,thin,sottile,,,o,1541151568.596483
-45,116,stew,stufato,lo,,n,1541151582.1697054
-46,118,soup,minestra,la,,n,1541151591.267168
-47,115,competition,concorrenza,la,,n,1541969216.862333
-48,117,mixture,miscela,la,,n,1541969421.283976
-49,119,label,etichetta,la,,n,1541969423.390698
-50,105,to extend,estendere,,r,v,1541969431.010411
-51,104,sure,secura,,,o,1541969466.174295
-52,86,piece,pezzetto,il,,n,1541969471.8662472
-53,49,out,fuori,,,o,1541969473.558756
-54,59,grandson,nipote,il,,n,1541969478.2299461
-55,56,to send,mandare,,r,v,1541969496.783809
-56,73,awkward,scomodo,,,o,1541969499.931915
-57,129,iron,ferro,il,,n,1542057183.738967
-58,127,arm,braccia,la,,n,1542057186.6251464
-59,126,head,testa,la,,n,1542057188.8965151
-60,125,lips,labbro,il,,n,1542057220.254477
-61,123,knee,ginocchio,il,,n,1542057233.094855
-62,122,leg,gamba,la,,n,1542057240.34527
-63,121,finger,dito,il,,n,1542057253.488605
-64,128,glass,cristallo,il,,n,1542057265.834831
-65,57,profession,mestiere,il,,n,1542057274.230761
-66,120,to maintain,mantenere,,r,v,1542057285.991945
-67,61,circle,cerchio,il,,n,1542057366.496486
-68,124,ear,orecchio,l',,n,1542057388.00898
-69,40,winter,inverno,il,,n,1542057399.682656
-70,53,side dish,contorno,il,,n,1542057405.385361
-71,77,tasty,saporito,,,o,1542057429.142287
-72,50,farm,agriturismo,l',,n,1542057433.053894
-73,63,afternoon,pomereggio,il,,n,1542057440.4448311
-74,55,washing machine,lavatrice,la,,n,1542057446.069319
-75,17,drink,bevanda,la,,n,1542057451.9162009
-76,3,lawyer,avvocato,l',,n,1542057462.150947
-77,83,to chop,tritare,,r,v,1542057466.3335311
-78,2,to accept,accettare,,r,v,1542057470.323765
-79,1,clothes,abiti,gli,,n,1542057473.605959
-80,4,to drink,bere,,i,v,1542057482.240424
-81,78,bubbles,bollicine,le,,n,1542057638.236368
-82,51,pub,osteria,le,,n,1542057640.777128
-83,23,to close,chiudere,,r,v,1542057698.6185641
-84,48,heavy,pesante,,,o,1542057700.347165
-85,9,actress,attrice,la,,n,1542057705.231983
-86,5,to listen,ascoltare,,r,v,1542057712.220187
-87,25,shop assistant,commesso,il,,n,1542057717.571114
-88,8,rainbow,arcobaleno,il,,n,1542057720.526897
-89,27,to run,correre,,r,v,1542057734.648663
-90,29,data,dati,i,,n,1542057747.308382
-91,15,skin,buccia,la,,n,1542057754.3403368
-92,26,consultancy,consulenza,la,,n,1542180414.168806
-93,44,book,libro,il,,n,1542180418.1929288
-94,7,to lift,alzare,,r,v,1542180421.905872
-95,10,actor,attore,il,,n,1542180424.789617
-96,35,meanwhile,fratempo,,i,o,1542180428.45683
-97,24,food,cibo,il,,n,1542180435.559232
-98,32,confident,estroverso,,r,o,1542180439.7507222
-99,131,heat,calore,il,,n,1542229555.115078
-100,85,to remove,togliere,,r,v,1542229574.5291471
-101,19,to erase,cancellare,,r,v,1542229577.583934
-102,30,to describe,descrivere,,r,v,1542229594.314627
-103,33,factory,fabbrica,la,,n,1542229597.992909
-104,6,to add,aggiungere,,i,v,1542229617.96778
-105,18,hair,cappelli,i,,n,1542229654.777361
-106,132,mist,bruma,la,,n,1542229679.829145
-107,130,to turn off,spegnere,,r,v,1542229689.053299
-108,47,clock,orologio,il,,n,1542229690.710423
-109,20,single (ms),celibe,,r,o,1542229695.054309
-110,31,hard working,diligente,,r,o,1542229699.6592119
-111,21,who,chi,,r,o,1542229705.279217
-112,13,business,azienda,le,,n,1542229708.004301
-113,45,free,libero,il,,o,1542229710.580461
-114,36,to learn,imparare,,r,v,1542229727.97963
-115,37,employee,impiegato,il,,n,1542229739.907691
-116,11,vacuum cleaner,aspirapolvere,gli,,n,1542229754.6947439
-117,66,district,quartiere,il,,n,1542229774.031136
-118,103,excited,eccitato,,,o,1542229814.512456
-119,14,bag,borsa,la,,n,1542229830.086401
-120,12,barely,appena,gli,,o,1542229834.221359
-121,74,joke,scherzetto,lo,,n,1542229837.574444
-122,16,lie,bugia,la,,n,1542229906.0943446
-123,72,to play (instrument),suonare,,r,v,1542229910.451798
-124,46,to travel,viaggiare,,r,v,1542229918.0849311
-125,28,the shower,doccia,la,,n,1542229934.776361
-126,82,chicken,polio,il,,n,1542229942.3012528
-127,22,to ask,chiedere,,r,v,1542308593.470476
-128,64,excuse,pretesto,il,,n,1542308598.8376026
-129,38,nurse,infermiera,la,,n,1542308956.1852472
-130,52,to combine,abbinare,,r,v,1542749689.232034
-131,67,to fill,riempire,,i,v,1542749818.3657134
-132,65,to clean,pulire,,i,v,1542749820.7179134
-0,133,to throw,gettare,,r,v,1542749828.657185
-1,71,layer,strato,lo,,n,1542749842.352391
-3,58,boring,noioso,,,o,1542749850.54427
-135,136,theft,furto,lo,,n,1548021862.87967
-136,137,to pour,versare,,r,v,1548021866.6908526
-137,138,to drive,guidare,,r,v,1548021870.174768
-138,139,fuel,carburante,il,,n,1548021874.4287539
-139,140,vain,vanitoso,,,o,1548021911.184408
-141,142,to summarise,ricapitolare,,r,v,1548022011.455563
-134,135,to turn,rivolgere,,r,v,1548022014.7257981
-140,141,to grow up,crescere,,r,v,1548022022.279404
-133,134,lightning,fulmine,il,,n,1548022038.873048
-4,68,boisterous,rumoroso,,,o,1548022058.162801
-5,60,every,ogni,,,o,1548022060.381346
-2,76,spoon,cucchiaio,il,,n,1548022067.337667
-8,80,every,ogni,,,o,1548022091.878865
-6,81,pear,pera,la,,n,1548022307.616596
-7,62,early,presto,,,o,1548022309.749697
-9,39,to meet,incontrare,,r,v,1548022316.737567
-10,75,far,lontano,,,o,1548022319.431684
-11,70,broken,rotto,,,o,1548022368.010315
-12,54,to stop,fermare,,r,v,1548022371.36135
-13,69,line,riga,la,,n,1548022374.8400779
-15,79,thirst,sete,la,,n,1548022428.952048
-17,43,to read,leggere,,r,v,1548022434.67077
-14,84,to throw,buttare,,r,v,1548110309.131141
-16,87,to cut,tagliare,,r,v,1548110312.347322
-19,88,wood,legno,il,,n,1548110319.028837
-18,34,to stay,rimanere,,i,v,1548110333.597326
-21,41,instead,invece,il,,o,1548110348.909919
-22,100,optional,facoltativa,,,o,1548110353.118817
-23,91,complicated,complicato,,,o,1548110355.554971
-20,42,teacher,insegnante,l',,n,1548110360.904555
-24,95,usually,di solito,,,o,1548110366.218784
-25,93,place,luogo,il,,n,1548110368.352206
-26,94,sometimes,qualche volte,,,o,1548110377.285485
-27,96,never,mai,,,o,1548110379.4990802
-28,99,to choose,scegliere,,i,v,1548110387.487216
-29,97,to move,spostare,,r,v,1548110389.6052382
-30,90,ingredient,ingrediente,gli,,n,1548110395.7080278
-31,98,to express,esprimere,,r,v,1548110402.152191
-33,101,dry,secco,,,o,1548110414.072156
-34,102,wet,bagnato,,,o,1548110417.048235
-35,109,dry,secco,,,o,1548110419.597853
-36,106,to reach,raggiungere,,i,v,1548110457.365979
-32,92,flavour,sapore,il,,n,1548110465.002839
-38,108,precious,pregiato,,,o,1548110474.115625
-39,114,to walk,camminare,,r,v,1548110478.663977
-41,110,farmer,contadino,il,,n,1548110493.2035902
-42,113,then,quindi,,,o,1548110496.017817
+0,163,carpet,tappeto,il,,n,1549921073.40504
+1,156,ancient,anziano,,,o,0.0
+2,157,cemetery,cimitero,il,,n,0.0
+3,158,to share,condividere,,r,v,0.0
+5,162,pillow,cuscino,i,,n,0.0
+6,155,even,addirittura,,,o,0.0
+8,160,funny,buffo,,,o,0.0
+172,173,rush hour,ora di puna,le,,n,0.0
+9,161,headphones,cuffie,le,,n,0.0
+171,172,by now,ormai,,,o,0.0
+164,165,desk,scrivania,la,,n,0.0
+165,166,steep,ripidi,,,o,0.0
+166,167,narrow,strette,,,o,0.0
+167,168,courtyard,cortile,il,,n,0.0
+168,169,to furnish,arredare,,r,v,0.0
+169,170,roof,tetto,il,,n,0.0
+163,164,nightmare,incubo,l',,n,0.0
+7,154,demanding,esigente,,,o,0.0
+10,87,to cut,tagliare,,r,v,1548110312.347322
+11,100,optional,facoltativa,,,o,1548110353.118817
+12,91,complicated,complicato,,,o,1548110355.554971
+13,42,teacher,insegnante,l',,n,1548110360.904555
+14,95,usually,di solito,,,o,1548110366.218784
+15,93,place,luogo,il,,n,1548110368.352206
+16,94,sometimes,qualche volte,,,o,1548110377.285485
+17,96,never,mai,,,o,1548110379.4990802
+18,99,to choose,scegliere,,i,v,1548110387.487216
+19,97,to move,spostare,,r,v,1548110389.6052382
+20,90,ingredient,ingrediente,gli,,n,1548110395.7080278
+21,98,to express,esprimere,,r,v,1548110402.152191
+22,101,dry,secco,,,o,1548110414.072156
+23,102,wet,bagnato,,,o,1548110417.048235
+24,109,dry,secco,,,o,1548110419.597853
+25,106,to reach,raggiungere,,i,v,1548110457.365979
+26,92,flavour,sapore,il,,n,1548110465.002839
+27,108,precious,pregiato,,,o,1548110474.115625
+28,114,to walk,camminare,,r,v,1548110478.663977
+29,110,farmer,contadino,il,,n,1548110493.2035902
+30,113,then,quindi,,,o,1548110496.017817
+31,107,boar,cinghiale,il,,n,1548110504.429625
+32,111,some,alcuni,,,o,1548110509.927912
+33,89,opinion,opinione,la,,n,1548110512.372538
+34,112,thin,sottile,,,o,1548195647.0207539
+35,116,stew,stufato,lo,,n,1548195649.780643
+36,118,soup,minestra,la,,n,1548195658.575581
+37,115,competition,concorrenza,la,,n,1548195662.246666
+38,117,mixture,miscela,la,,n,1548195676.8926141
+39,86,piece,pezzetto,il,,n,1548195840.7694788
+40,119,label,etichetta,la,,n,1548195872.753129
+41,105,to extend,estendere,,r,v,1548195876.138033
+42,104,sure,secura,,,o,1548195878.587115
+43,49,out,fuori,,,o,1548195882.634831
+44,59,grandson,nipote,il,,n,1548195885.515815
+45,56,to send,mandare,,r,v,1548195895.031491
+46,73,awkward,scomodo,,,o,1548195897.523091
+47,129,iron,ferro,il,,n,1548195900.525939
+48,127,arm,braccia,la,,n,1548238321.376793
+49,126,head,testa,la,,n,1548238324.098317
+50,123,knee,ginocchio,il,,n,1548238353.0115368
+51,122,leg,gamba,la,,n,1548238355.854851
+52,128,glass,cristallo,il,,n,1548238372.035813
+53,57,profession,mestiere,il,,n,1548238375.603016
+54,120,to maintain,mantenere,,r,v,1548238379.550822
+55,40,winter,inverno,il,,n,1548238819.780627
+56,125,lips,labbro,il,,n,1548277560.3891768
+57,61,circle,cerchio,il,,n,1548277568.038859
+58,53,side dish,contorno,il,,n,1548277579.573036
+59,121,finger,dito,il,,n,1548277586.125739
+60,77,tasty,saporito,,,o,1548277595.168049
+61,50,farm,agriturismo,l',,n,1548277598.477359
+62,63,afternoon,pomereggio,il,,n,1548277603.3364599
+63,124,ear,orecchio,l',,n,1548277651.35658
+64,55,washing machine,lavatrice,la,,n,1548277655.996771
+65,17,drink,bevanda,la,,n,1548277658.189318
+66,3,lawyer,avvocato,l',,n,1548277661.152536
+67,83,to chop,tritare,,r,v,1548277666.6613288
+68,2,to accept,accettare,,r,v,1548277672.130358
+69,4,to drink,bere,,i,v,1548277678.508309
+70,78,bubbles,bollicine,le,,n,1548277682.041792
+71,1,clothes,abiti,gli,,n,1548277699.672912
+72,51,pub,osteria,le,,n,1548277705.113703
+73,23,to close,chiudere,,r,v,1548277714.096159
+74,48,heavy,pesante,,,o,1548277716.503966
+75,9,actress,attrice,la,,n,1548277720.08364
+76,5,to listen,ascoltare,,r,v,1548277731.871007
+77,8,rainbow,arcobaleno,il,,n,1548277906.922431
+78,27,to run,correre,,r,v,1548277911.294143
+79,29,data,dati,i,,n,1548277913.381036
+80,25,shop assistant,commesso,il,,n,1548277925.1482651
+81,15,skin,buccia,la,,n,1548277930.620739
+82,26,consultancy,consulenza,la,,n,1548277935.878748
+83,44,book,libro,il,,n,1548277945.049899
+84,7,to lift,alzare,,r,v,1548277948.5595222
+85,10,actor,attore,il,,n,1548277954.353725
+86,35,meanwhile,fratempo,,i,o,1548277958.283956
+87,24,food,cibo,il,,n,1548277960.000258
+88,32,confident,estroverso,,r,o,1548277964.616467
+89,19,to erase,cancellare,,r,v,1548277982.1763961
+90,152,kiss,bacio,il,,n,1548497306.563014
+91,149,to shout,urlare,,r,v,1548497317.012706
+92,147,self-control,autocontrollo,,,o,1548497323.9632509
+93,150,to trust,fidarsi,,r,v,1548620762.40879
+94,146,polite,educato,,,o,1548620772.174345
+95,145,rude,maleducato,,,o,1548620774.989907
+96,148,spite,cattiveria,la,,n,1548621132.0121472
+97,143,annoying,fastidioso,,,o,1548621139.0608716
+98,151,surprise,sorpresa,la,,n,1548621141.550759
+99,131,heat,calore,il,,n,1548621148.2866054
+100,144,to bear,sopportare,,r,v,1548621206.207431
+101,30,to describe,descrivere,,r,v,1548621219.0268278
+102,33,factory,fabbrica,la,,n,1548621222.2592866
+103,6,to add,aggiungere,,i,v,1548621232.732774
+104,47,clock,orologio,il,,n,1548621293.7407448
+105,18,hair,cappelli,i,,n,1548621305.322956
+106,20,single (ms),celibe,,r,o,1548621317.2103438
+107,21,who,chi,,r,o,1548621602.693875
+108,85,to remove,togliere,,r,v,1548621644.064383
+109,132,mist,bruma,la,,n,1548621667.08238
+110,130,to turn off,spegnere,,r,v,1548621717.475491
+111,31,hard working,diligente,,r,o,1548621724.703896
+112,13,business,azienda,le,,n,1548621730.4350061
+113,45,free,libero,il,,o,1548680220.3987
+114,37,employee,impiegato,il,,n,1548680229.401625
+115,11,vacuum cleaner,aspirapolvere,gli,,n,1548680233.5570571
+116,66,district,quartiere,il,,n,1548680236.014804
+117,36,to learn,imparare,,r,v,1548680241.6889188
+118,103,excited,eccitato,,,o,1548680253.528179
+119,14,bag,borsa,la,,n,1548680257.360252
+120,74,joke,scherzetto,lo,,n,1548680262.062134
+121,16,lie,bugia,la,,n,1548680269.821395
+122,72,to play (instrument),suonare,,r,v,1548680275.14426
+123,46,to travel,viaggiare,,r,v,1548680277.750218
+124,82,chicken,polio,il,,n,1548680300.475073
+125,22,to ask,chiedere,,r,v,1548680306.041014
+126,28,the shower,doccia,la,,n,1548707138.639532
+127,64,excuse,pretesto,il,,n,1548707143.164824
+128,52,to combine,abbinare,,r,v,1548707150.122383
+129,12,barely,appena,gli,,o,1548707155.71649
+130,38,nurse,infermiera,la,,n,1548707158.120285
+131,67,to fill,riempire,,i,v,1548707161.032893
+132,153,belly,pancia,la,,n,1548708485.306694
+133,65,to clean,pulire,,i,v,1548708488.871926
+134,133,to throw,gettare,,r,v,1548708491.537761
+135,71,layer,strato,lo,,n,1548708494.323699
+136,58,boring,noioso,,,o,1548708496.324944
+137,138,to drive,guidare,,r,v,1548708510.525172
+138,140,vain,vanitoso,,,o,1548708517.792562
+139,136,theft,furto,lo,,n,1548710644.0041802
+140,139,fuel,carburante,il,,n,1548710652.430335
+141,135,to turn,rivolgere,,r,v,1548710675.905291
+142,137,to pour,versare,,r,v,1548887912.574378
+143,134,lightning,fulmine,il,,n,1548887929.764917
+144,141,to grow up,crescere,,r,v,1548887947.942341
+145,60,every,ogni,,,o,1548887955.343782
+146,142,to summarise,ricapitolare,,r,v,1548887968.133725
+147,68,boisterous,rumoroso,,,o,1548887971.923415
+148,80,every,ogni,,,o,1548887977.089749
+149,81,pear,pera,la,,n,1548887979.867184
+150,62,early,presto,,,o,1548887991.934431
+151,39,to meet,incontrare,,r,v,1548887995.612727
+152,75,far,lontano,,,o,1548888000.516978
+153,70,broken,rotto,,,o,1548888003.0568054
+154,54,to stop,fermare,,r,v,1548888015.047414
+155,69,line,riga,la,,n,1548888016.689239
+156,79,thirst,sete,la,,n,1548888019.524212
+157,43,to read,leggere,,r,v,1548888023.660691
+158,84,to throw,buttare,,r,v,1548888036.175816
+159,88,wood,legno,il,,n,1548888045.925958
+160,76,spoon,cucchiaio,il,,n,1548888056.256972
+161,34,to stay,rimanere,,i,v,1548888062.306258
+162,41,instead,invece,il,,o,1548888065.4024448
+4,159,bad luck,sfortua,la,,n,1549234587.627532
+170,171,maybe,magari,,,o,1549921051.3427382
